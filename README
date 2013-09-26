@@ -1,0 +1,3 @@
+Stopwatch in VHDL
+
+A simple stopwatch written in VHDL. I've synthesized it for a Digilent Nexys3 (Xilinx Spartan6), but it should be easily modifiable to work on other development boards. Make sure you adjust the clock speed global for your clk input.
